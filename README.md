@@ -7,7 +7,7 @@ Shared small projects that don't need a repository (eg: games made during live s
 ### Godot Engine e gameplay programming di un platformer 2D - Live con Wintermute
 
 - Video: https://youtu.be/tk1huT8KeU0
-- Download project:
+- Download project: https://github.com/crystal-bit/archive/files/4602988/platformer-live.zip
   
 ![godotplatform](https://user-images.githubusercontent.com/6860637/81468047-52badf80-91dd-11ea-9238-dab55fd7a9ec.png)
 
